@@ -1,4 +1,4 @@
-class ApiRresponse {
+class ApiResponse {
     constructor(
         statusCode, data, message = "Success"
     ){
@@ -9,4 +9,4 @@ class ApiRresponse {
     }
 }
 
-export {ApiRresponse}
+export  {ApiResponse}
